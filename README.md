@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cheremy</h1>
-<h3 align="center">A passionate Artificial Intelligence student from the Netherlands</h3>
-
-- 🔭 I’m currently working on [rPPG extraction](https://github.com/CheremyP/Msc.-thesis-rPPG)
+<h3 align="center">A Dataa & Machine Learning Engineerfrom the Netherlands</h3>
 
 - 👨‍💻 Open projects are available at [https://cheremyp.github.io/](https://cheremyp.github.io/)
 
