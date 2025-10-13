@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cheremy</h1>
 <h3 align="center">A Data & Machine Learning Engineer from the Netherlands</h3>
 
-- 👨‍💻 Open projects are available at [https://cheremyp.github.io/](https://cheremyp.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
